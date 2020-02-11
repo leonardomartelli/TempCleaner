@@ -68,8 +68,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Cleaner.cs" />
-    <Compile Include="eState.cs" />
+    <Compile Include="BackEnd\Cleaner.cs" />
+    <Compile Include="BackEnd\eState.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
